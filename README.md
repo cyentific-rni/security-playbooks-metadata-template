@@ -22,7 +22,7 @@ This template has been referenced, implemented, and possibly enhanced by several
 | **organization type** | The type of organization that the playbook is intended for. This can be an industry sector. |
 | **playbook standard** | The standard/format/notation the playbook conforms to (e.g., CACAO, BPMN). |
 | **playbook abstraction** | The playbook's level of abstraction (e.g., template, executable).  |
-| **playbook type** | A list of playbook types that specifies the operational roles this playbook addresses (e.g., notification, detection, investigation, prevention, mitigation, remediation, attack). |
+| **playbook type** | The operational roles this playbook addresses (e.g., notification, detection, investigation, prevention, mitigation, remediation, attack). |
 | **playbook impact** | From 0 to 100, an integer representing the impact the playbook has on the organization. A value of 0 means specifically undefined. Impact values range from 1, the lowest impact, to a value of 100, the highest. For example, a purely investigative playbook that is non-invasive could have a low impact value of 1. In contrast, a playbook that performs changes such as adding rules into a firewall should have a higher impact value. |
 | **playbook severity** | From 0 to 100, an integer representing the seriousness of the conditions that this playbook addresses. A value of 0 means specifically undefined. Severity values range from 1, the lowest severity, to a value of 100, the highest. |
 | **playbook priority** | From 0 to 100, an integer representing the priority of this playbook relative to other defined playbooks. A value of 0 means specifically undefined. Priority values range from 1, the highest priority, to a value of 100, the lowest. |
