@@ -1,6 +1,8 @@
 # Metadata Template for Integrating Security Playbooks into Knowledge Management and Sharing Systems
 
-This repository hosts a uniform metadata template for describing, managing, and sharing cybersecurity playbooks. The template was first introduced in: *Mavroeidis, V., Eis, P., Zadnik, M., Caselli, M., & Jordan, B. (2021, December). On the Integration of Course of Action Playbooks into Shareable Cyber Threat Intelligence. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2104-2108). IEEE.*
+This repository hosts a uniform metadata template for describing, managing, and sharing cybersecurity playbooks. 
+
+The template was first introduced in: *Mavroeidis, V., Eis, P., Zadnik, M., Caselli, M., & Jordan, B. (2021, December). On the Integration of Course of Action Playbooks into Shareable Cyber Threat Intelligence. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2104-2108). IEEE.*
 
 The authors version of the above publication can be accessed at: https://arxiv.org/pdf/2110.10540.pdf
 
