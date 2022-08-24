@@ -2,6 +2,8 @@
 
 This repository hosts a uniform metadata template for describing, managing, and sharing cybersecurity playbooks. The template was first introduced in: *Mavroeidis, V., Eis, P., Zadnik, M., Caselli, M., & Jordan, B. (2021, December). On the Integration of Course of Action Playbooks into Shareable Cyber Threat Intelligence. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2104-2108). IEEE.*
 
+The authors version of the above publication can be accessed at: https://arxiv.org/pdf/2110.10540.pdf
+
 This template has been referenced, implemented, and possibly enhanced by several Cyber Threat Intelligence sharing and management technologies such as STIX, MISP, and the OASIS Threat Actor Context Ontology.
 
 | Element | Description |
