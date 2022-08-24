@@ -6,7 +6,7 @@ The template was first introduced in: *Mavroeidis, V., Eis, P., Zadnik, M., Case
 
 The authors version of the above publication can be accessed at: https://arxiv.org/pdf/2110.10540.pdf
 
-This template has been referenced, implemented, and possibly enhanced by several Cyber Threat Intelligence sharing and management technologies such as STIX, MISP, and the OASIS Threat Actor Context Ontology.
+This template has been referenced, implemented, and possibly enhanced by several Cyber Threat Intelligence sharing and management technologies such as STIX, [MISP](https://www.misp-project.org/objects.html#_security_playbook), and the OASIS Threat Actor Context Ontology.
 
 | Element | Description |
 | :--- | :--- |
