@@ -1,12 +1,14 @@
-# Metadata Template for Integrating Security Playbooks into Knowledge Management and Sharing Systems
+## A Cybersecurity Playbook/Workflow Metadata Template for Knowledge Management
 
-This repository hosts a uniform metadata template for describing, managing, and sharing cybersecurity playbooks. 
+This repository presents a standard metadata template to support programmatic knowledge management of security playbooks/orchestration workflows.
 
 The template was first introduced in: *Mavroeidis, V., Eis, P., Zadnik, M., Caselli, M., & Jordan, B. (2021, December). On the Integration of Course of Action Playbooks into Shareable Cyber Threat Intelligence. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2104-2108). IEEE.*
 
-The authors version of the above publication can be accessed at: https://arxiv.org/pdf/2110.10540.pdf
+The authors' version of the publication can be accessed at: https://arxiv.org/pdf/2110.10540.pdf
 
-This template has been referenced, implemented, and possibly enhanced by several Cyber Threat Intelligence sharing and management technologies such as STIX, [MISP](https://www.misp-project.org/objects.html#_security_playbook), and the OASIS Threat Actor Context Ontology.
+This template has been referenced, implemented, and possibly will be enhanced by several Cyber Threat Intelligence sharing and management technologies such as STIX, [MISP](https://www.misp-project.org/objects.html#_security_playbook), and the OASIS Threat Actor Context Ontology (to name a few).
+
+Products that utilize this template or enhanced versions won't be reflected in this repository, meaning that this repository will remain unchanged and will stay here for educational purposes. 
 
 | Element | Description |
 | :--- | :--- |
